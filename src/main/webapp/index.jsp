@@ -10,7 +10,7 @@
 
   <body>
     <h2>Chào mừng đến với dự án Server Time!</h2>
-    <p><a href="${pageContext.request.contextPath}/serve_time">Xem thời gian server</a></p>
+    <p><a href="/serve_time">Xem thời gian server</a></p>
   </body>
 
   </html>
